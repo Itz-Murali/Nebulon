@@ -119,12 +119,6 @@ The soundtrack is **Sky High** by **Elektronomia**, bundled at `public/audio/neb
 
 Nebulon is open source under the **Nebulon Attribution License**: you may use, copy, modify, merge, publish, distribute, sublicense and sell the software, as long as you give clear credit to both creators, keep the license text, and do not claim to be the original author. Read the full text in [LICENSE](LICENSE).
 
-A suitable credit line:
-
-> Based on Nebulon by Itz-Murali and Itz-Anya - https://github.com/Itz-Murali/Nebulon
-
-Third-party libraries keep their own licenses (Three.js, Vue, Nuxt and anime.js are MIT, Lucide is ISC, and the bundled fonts are SIL OFL 1.1).
-
 ## 👩‍💻 Creators
 
 <table width="100%">
