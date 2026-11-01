@@ -119,31 +119,7 @@ The soundtrack is **Sky High** by **Elektronomia**, bundled at `public/audio/neb
 
 Nebulon is open source under the **Nebulon Attribution License**: you may use, copy, modify, merge, publish, distribute, sublicense and sell the software, as long as you give clear credit to both creators, keep the license text, and do not claim to be the original author. Read the full text in [LICENSE](LICENSE).
 
-## 👩‍💻 Creators
+<p align="center">
+  <img src="https://random-images-anya.vercel.app/am" alt="Random Image" />
+</p>
 
-<table width="100%">
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://random-images-anya.vercel.app/anya" width="160" style="border-radius:50%"><br><br>
-      <b>𝚨𝝒𝛄ꫝ 𓆩𔘓𓆪</b><br><br>
-      <a href="https://github.com/Itz-Anya">
-        <img src="https://img.shields.io/badge/GitHub-Itz--Anya-ec4899?style=for-the-badge&logo=github">
-      </a>
-    </td>
-    <td align="center" width="50%">
-      <img src="https://itz-murali-images.vercel.app/api" width="160" style="border-radius:50%"><br><br>
-      <b>𝐌 𝐔 𝐑 𝚨 𝐋 𝐈 𓂃ִֶָ⋆.˚</b><br><br>
-      <a href="https://github.com/Itz-Murali">
-        <img src="https://img.shields.io/badge/GitHub-Itz--Murali-ec4899?style=for-the-badge&logo=github">
-      </a>
-    </td>
-  </tr>
-</table>
-
-<div align="center">
-
-<br />
-
-If you enjoy Nebulon, a star on the repository helps a lot. ⭐
-
-</div>
