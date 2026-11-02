@@ -1,5 +1,4 @@
 <div align="center">
-
 <img src="public/brand/nebulon-wordmark.webp" alt="NEBULON: Infinite Frontier" width="720" />
 
 <br />
